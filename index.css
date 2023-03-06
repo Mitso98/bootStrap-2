@@ -1,0 +1,74 @@
+.bg-dark {
+  background-color: #000 !important;
+}
+
+li.nav-item {
+  display: flex;
+  align-items: center !important;
+}
+
+.font-large {
+  font-size: 30px;
+}
+
+.material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 48;
+}
+
+.btn-primary,
+.btn-primary:active,
+.btn-primary:visited {
+  background-color: #ff9285 !important;
+  border: none;
+  border-radius: 0;
+  padding: 0.75rem 1.5rem;
+  text-transform: uppercase;
+  color: black;
+}
+
+.btn-primary:hover {
+  background-color: rgb(255, 169, 160) !important;
+}
+
+/* increase line thickness */
+.border {
+  border-width: 6px !important;
+}
+
+.img-thumbnail {
+  padding: 0.25rem;
+  background-color: black;
+  border: 1px solid rgb(65, 65, 65);
+  border-radius: 1.25rem;
+  max-width: 100%;
+  height: auto;
+}
+
+.img-thumbnail:hover {
+  background-color: #000 !important;
+}
+
+figcaption {
+  text-decoration: none !important;
+}
+
+figcaption:hover {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+.bg-primary {
+  background-color: #ff9285 !important;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.webvy {
+  text-decoration: underline !important;
+  color: #000 !important;
+}
+
+.nav-link:hover {
+  border-bottom: 1px solid white !important;
+}/*# sourceMappingURL=index.css.map */
